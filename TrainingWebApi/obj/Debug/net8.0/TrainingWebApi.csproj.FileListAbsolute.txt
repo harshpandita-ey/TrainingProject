@@ -1,0 +1,149 @@
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\appsettings.json
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\TrainingWebApi.exe
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\TrainingWebApi.deps.json
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\TrainingWebApi.runtimeconfig.json
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\TrainingWebApi.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\TrainingWebApi.pdb
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\System.Net.Http.Extensions.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\System.Net.Http.Primitives.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\EFTrainingLibrary.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\EFTrainingLibrary.pdb
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\TrainingWebApi.csproj.AssemblyReference.cache
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\TrainingWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\TrainingWebApi.AssemblyInfoInputs.cache
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\TrainingWebApi.AssemblyInfo.cs
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\TrainingWebApi.csproj.CoreCompileInputs.cache
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\TrainingWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\TrainingWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\TrainingWebApi.sourcelink.json
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\staticwebassets\msbuild.TrainingWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.TrainingWebApi.props
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TrainingWebApi.props
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TrainingWebApi.props
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\scopedcss\bundle\TrainingWebApi.styles.css
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\Training.A4B3C131.Up2Date
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\TrainingWebApi.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\refint\TrainingWebApi.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\TrainingWebApi.pdb
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\TrainingWebApi.genruntimeconfig.cache
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\ref\TrainingWebApi.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\TrainingWebApi.exe
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\TrainingWebApi.deps.json
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\TrainingWebApi.runtimeconfig.json
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\TrainingWebApi.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\TrainingWebApi.pdb
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\System.Net.Http.Extensions.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\System.Net.Http.Primitives.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\EFTrainingLibrary.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\bin\Debug\net8.0\EFTrainingLibrary.pdb
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\TrainingWebApi.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\TrainingWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\TrainingWebApi.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\TrainingWebApi.AssemblyInfo.cs
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\TrainingWebApi.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\TrainingWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\TrainingWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\staticwebassets\msbuild.TrainingWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.TrainingWebApi.props
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TrainingWebApi.props
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TrainingWebApi.props
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\scopedcss\bundle\TrainingWebApi.styles.css
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\Training.A4B3C131.Up2Date
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\TrainingWebApi.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\refint\TrainingWebApi.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\TrainingWebApi.pdb
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\TrainingWebApi.genruntimeconfig.cache
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\TrainingWebApi\obj\Debug\net8.0\ref\TrainingWebApi.dll

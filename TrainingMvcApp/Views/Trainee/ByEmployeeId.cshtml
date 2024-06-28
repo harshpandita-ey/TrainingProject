@@ -1,0 +1,43 @@
+﻿@model IEnumerable<TrainingMvcApp.Models.Trainee>
+
+@{
+    ViewData["Title"] = "ByEmployeeId";
+}
+
+<h1>ByEmployeeId</h1>
+
+<p>
+    <a asp-action="Index">Back to List</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TrainingId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TrainingId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmpId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,29 @@
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\EFTrainingLibrary\bin\Debug\net8.0\EFTrainingLibrary.deps.json
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\EFTrainingLibrary\bin\Debug\net8.0\EFTrainingLibrary.runtimeconfig.json
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\EFTrainingLibrary\bin\Debug\net8.0\EFTrainingLibrary.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\EFTrainingLibrary\bin\Debug\net8.0\EFTrainingLibrary.pdb
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\EFTrainingLibrary\obj\Debug\net8.0\EFTrainingLibrary.csproj.AssemblyReference.cache
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\EFTrainingLibrary\obj\Debug\net8.0\EFTrainingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\EFTrainingLibrary\obj\Debug\net8.0\EFTrainingLibrary.AssemblyInfoInputs.cache
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\EFTrainingLibrary\obj\Debug\net8.0\EFTrainingLibrary.AssemblyInfo.cs
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\EFTrainingLibrary\obj\Debug\net8.0\EFTrainingLibrary.csproj.CoreCompileInputs.cache
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\EFTrainingLibrary\obj\Debug\net8.0\EFTrainingLibrary.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\EFTrainingLibrary\obj\Debug\net8.0\refint\EFTrainingLibrary.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\EFTrainingLibrary\obj\Debug\net8.0\EFTrainingLibrary.pdb
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\EFTrainingLibrary\obj\Debug\net8.0\EFTrainingLibrary.genruntimeconfig.cache
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\EFTrainingLibrary\obj\Debug\net8.0\ref\EFTrainingLibrary.dll
+C:\DotNET Training\Day25\Training Management using DotNet Full Stack\EFTrainingLibrary\obj\Debug\net8.0\EFTrainingLibrary.sourcelink.json
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\EFTrainingLibrary\bin\Debug\net8.0\EFTrainingLibrary.deps.json
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\EFTrainingLibrary\bin\Debug\net8.0\EFTrainingLibrary.runtimeconfig.json
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\EFTrainingLibrary\bin\Debug\net8.0\EFTrainingLibrary.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\EFTrainingLibrary\bin\Debug\net8.0\EFTrainingLibrary.pdb
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\EFTrainingLibrary\obj\Debug\net8.0\EFTrainingLibrary.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\EFTrainingLibrary\obj\Debug\net8.0\EFTrainingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\EFTrainingLibrary\obj\Debug\net8.0\EFTrainingLibrary.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\EFTrainingLibrary\obj\Debug\net8.0\EFTrainingLibrary.AssemblyInfo.cs
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\EFTrainingLibrary\obj\Debug\net8.0\EFTrainingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\EFTrainingLibrary\obj\Debug\net8.0\EFTrainingLibrary.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\EFTrainingLibrary\obj\Debug\net8.0\refint\EFTrainingLibrary.dll
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\EFTrainingLibrary\obj\Debug\net8.0\EFTrainingLibrary.pdb
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\EFTrainingLibrary\obj\Debug\net8.0\EFTrainingLibrary.genruntimeconfig.cache
+C:\Users\labuser\source\repos\Training Management using DotNet Full Stack\EFTrainingLibrary\obj\Debug\net8.0\ref\EFTrainingLibrary.dll
